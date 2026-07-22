@@ -154,7 +154,7 @@
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^16.0.3",
     "@rollup/plugin-terser": "^1.0.0",
-    "@vitest/browser": "^4.1.7",
+    "@vitest/browser": "^4.1.10",
     "@vitest/browser-playwright": "^4.1.7",
     "abortcontroller-polyfill": "^1.7.8",
     "acorn": "^8.16.0",
